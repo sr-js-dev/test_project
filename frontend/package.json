@@ -12,7 +12,7 @@
     "bootstrap": "^4.3.1",
     "dnd": "^0.1.0",
     "history": "^4.6.3",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "multi-select-react": "^0.1.8",
     "prop-types": "^15.5.10",
     "react": "^16.3.1",
